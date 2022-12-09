@@ -1,0 +1,4 @@
+Salame|2|Frios|aa|ss|1|02/12/2022
+Salame|2|Frios|aa|ss|9|02/12/2022
+mortadela|2|Frios|hihi|lili|5|02/12/2022
+salame|2|Frios|hihi|lili|10|02/12/2022
